@@ -1,5 +1,5 @@
 # Research, Academic and Development Tutorial
-### May 2006
+### May 2026
 
 ![Image](./images/README_G1_Embodied_AI.png)
 
