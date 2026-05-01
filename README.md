@@ -54,8 +54,9 @@ Kick things off with a hands-on tutorial that takes you from simulation to reali
 Find the notebooks and the code in:
 
 ```
-./notebooks/LeftHandRaise7DF_PrototypeOne
-./src/LeftHandRaise7DF_PrototypeOne
+./notebooks/LeftHandRaise7DF_PrototypeOne/LeftHandRaise7DF_TutorialOne.ipynb
+./notebooks/LeftHandRaise7DF_PrototypeOne/LeftHandRaise7DF_TutorialTwo.ipynb
+./src/LeftHandRaise7DF_PrototypeOne/*.py
 ```
 
 💡 This is your entry point into understanding how modern humanoid robotics systems are built, tested, and deployed.
