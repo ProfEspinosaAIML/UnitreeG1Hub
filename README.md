@@ -5,7 +5,7 @@
 
 ## Featured Demo
 
-<video src="https://raw.githubusercontent.com/ProfEspinosaAIML/UnitreeG1Hub/main/videos/g1_fingers_arms_sdk_dds_demo4.mp4" controls width="100%">
+<video src="https://profespinosaaiml.github.io/UnitreeG1Hub/videos/g1_fingers_arms_sdk_dds_demo4.mp4" controls width="100%">
   Your browser does not support the video tag.
 </video>
 
