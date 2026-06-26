@@ -5,7 +5,7 @@
 
 ## Featured Demo
 
-[![Unitree G1 finger and arm motion demo](./images/README_G1_Embodied_AI.png)](https://profespinosaaiml.github.io/UnitreeG1Hub/videos/g1_fingers_arms_sdk_dds_demo4.mp4)
+[![Unitree G1 finger and arm motion demo](./images/G1_fingers_arms_sdk_dds_demo4.PNG)](https://profespinosaaiml.github.io/UnitreeG1Hub/videos/g1_fingers_arms_sdk_dds_demo4.mp4)
 
 [Play the finger and arm motion demo](https://profespinosaaiml.github.io/UnitreeG1Hub/videos/g1_fingers_arms_sdk_dds_demo4.mp4)
 
