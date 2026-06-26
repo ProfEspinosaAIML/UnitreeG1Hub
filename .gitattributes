@@ -1,0 +1,13 @@
+* text=auto
+
+.gitattributes text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.ipynb text eol=lf
+
+*.usd binary
+*.png binary
+*.PNG binary
+*.jpg binary
+*.jpeg binary
+*.mp4 binary
