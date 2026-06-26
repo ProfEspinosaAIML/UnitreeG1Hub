@@ -1,15 +1,13 @@
 # Research, Academic and Development Tutorial
-### May 2026
+### June 2026
 
 ![Image](./images/README_G1_Embodied_AI.png)
 
 ## Featured Demo
 
-<video src="https://profespinosaaiml.github.io/UnitreeG1Hub/videos/g1_fingers_arms_sdk_dds_demo4.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
+[![Unitree G1 finger and arm motion demo](./images/README_G1_Embodied_AI.png)](https://profespinosaaiml.github.io/UnitreeG1Hub/videos/g1_fingers_arms_sdk_dds_demo4.mp4)
 
-[Open the finger and arm motion demo video](./videos/g1_fingers_arms_sdk_dds_demo4.mp4)
+[Play the finger and arm motion demo](https://profespinosaaiml.github.io/UnitreeG1Hub/videos/g1_fingers_arms_sdk_dds_demo4.mp4)
 
 ## Abstract
 This repository presents a research-oriented tutorial on the Unitree G1 humanoid robot, designed to bridge the gap between user-level interaction, developer-level system integration, and researcher-level experimentation. The tutorial frames the G1 as a complete embodied AI platform, where control, middleware, and learning systems converge to enable advanced humanoid behaviors.
