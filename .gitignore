@@ -7,6 +7,7 @@ __pycache__/
 *$py.class
 
 .ipynb_checkpoints/
+documents/LaptopRouterConnection.ipynb
 
 .DS_Store
 Thumbs.db
